@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kevin-react-app/static/css/main.fb9f600f.css",
-    "main.js": "/kevin-react-app/static/js/main.b1fb5140.js",
+    "main.css": "/kevin-react-app/static/css/main.dbe2f9ff.css",
+    "main.js": "/kevin-react-app/static/js/main.c8f2acaa.js",
     "static/js/787.56afc340.chunk.js": "/kevin-react-app/static/js/787.56afc340.chunk.js",
     "static/media/logo.svg": "/kevin-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kevin-react-app/index.html",
-    "main.fb9f600f.css.map": "/kevin-react-app/static/css/main.fb9f600f.css.map",
-    "main.b1fb5140.js.map": "/kevin-react-app/static/js/main.b1fb5140.js.map",
+    "main.dbe2f9ff.css.map": "/kevin-react-app/static/css/main.dbe2f9ff.css.map",
+    "main.c8f2acaa.js.map": "/kevin-react-app/static/js/main.c8f2acaa.js.map",
     "787.56afc340.chunk.js.map": "/kevin-react-app/static/js/787.56afc340.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb9f600f.css",
-    "static/js/main.b1fb5140.js"
+    "static/css/main.dbe2f9ff.css",
+    "static/js/main.c8f2acaa.js"
   ]
 }
