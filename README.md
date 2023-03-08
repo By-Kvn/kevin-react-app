@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is live [Create React App](https://by-kvn.github.io/kevin-react-app/).
+This project is live [My React App](https://by-kvn.github.io/kevin-react-app/).
 
 ## Available Scripts
 
